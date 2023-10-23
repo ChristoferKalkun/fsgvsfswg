@@ -1,0 +1,38 @@
+body {
+  margin top: 60px;
+  }
+  p {
+   color: #FF6347;
+   font-size:40px;
+   font: Georgia, serif;
+   font-style: italic;
+   font-weight: 100;
+  }
+  .border {
+    border-color: #FF6347;
+    border-width: 40px;
+    border-style: ridge;
+    border-radius: 20%;
+  }
+  .text1 {
+    color: #FF6347;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+    .pealkiri {
+      font-size: 30px;
+      color: white;
+      font-style: italic;
+      font-weight: bolder;
+    }
+    body {
+    background-image: repeating-radial-gradient(#FFFF,rgb(255, 0, 0););
+    background-color: #222;
+    }
+    .container {
+      justify-content: space-between;
+      display: flex;
+      }
+    html {
+      height: 200px;
+    }
